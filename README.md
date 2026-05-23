@@ -1,43 +1,53 @@
-# 👋 Hi, I'm Thella Suvarna
+# 👋 Hi, I'm Suvarna Thella
 
-🎓 AI & ML Undergraduate | 💻 Aspiring Software Engineer | 📊 Data Enthusiast  
+🎓 B.Tech CSE (AI & ML) Student  
+💡 Passionate about Machine Learning, Data Science & AI  
+🚀 Aspiring Software Engineer | Open to Opportunities  
 
+---
 
+## 🚀 Skills
 
-## 🚀 About Me
-- 🎓 B.Tech in CSE (AI & ML) | CGPA: 8.25  
-- 💡 Passionate about Machine Learning & Real-world problem solving  
-- 🔍 Interested in Data Science, AI, and Software Development  
-- 🌱 Currently improving DSA and building impactful projects  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data%20Science-00C853?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
 
+## 📊 GitHub Stats
 
-## 🛠️ Skills
-- 💻 Languages: Python, SQL  
-- 🧠 Core: Data Structures and Algorithms , OOP, DBMS  
-- 🤖 ML: Supervised Learning, CNN  
-- 📊 Tools: Excel, Power BI, Tableau  
-- 🌐 Web: HTML, CSS  
-- ⚙️ Tools: Git, GitHub, VS Code  
+![Suvarna's GitHub stats](https://github-readme-stats.vercel.app/api?username=suvarnathella&show_icons=true&theme=radical)
 
+---
 
-## 🚀 Projects
+## 🔥 Streak Stats
 
-### 🦴 Bone Fracture Detection (Deep Learning)
-- CNN model to classify X-ray images  
-- Image preprocessing & evaluation metrics  
+![GitHub Streak](https://streak-stats.demolab.com/?user=suvarnathella&theme=radical)
+
+---
+
+## 📌 Featured Projects
+
+### 🦴 Bone Fracture Detection
+- Built using Deep Learning & Computer Vision  
+- Detects fractures from X-ray images  
 
 ### 🔐 Malicious URL Detection
-- ML models: Logistic Regression, Decision Tree, Random Forest  
+- Machine Learning model to identify harmful URLs  
 
-### ⛓️ Blockchain Task Scheduling
-- Secure cloud scheduling using blockchain concepts  
+### ⛓ Blockchain Task Scheduling
+- Optimized scheduling using blockchain concepts  
 
-
+---
 
 ## 📫 Connect with Me
-- LinkedIn: https://linkedin.com/in/suvarnathella  
-- Email: suvarnathella31@gmail.com  
 
+- 💼 LinkedIn: (add your link here)
+- 📧 Email: (your email)
 
-⭐ *"Always learning, always building."*
+---
+
+⭐️ *Always learning, building, and growing in AI & ML*
