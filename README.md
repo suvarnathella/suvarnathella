@@ -2,7 +2,7 @@
 
 🎓 AI & ML Undergraduate | 💻 Aspiring Software Engineer | 📊 Data Enthusiast  
 
----
+
 
 ## 🚀 About Me
 - 🎓 B.Tech in CSE (AI & ML) | CGPA: 8.25  
@@ -10,7 +10,7 @@
 - 🔍 Interested in Data Science, AI, and Software Development  
 - 🌱 Currently improving DSA and building impactful projects  
 
----
+
 
 ## 🛠️ Skills
 - 💻 Languages: Python, SQL  
@@ -20,7 +20,6 @@
 - 🌐 Web: HTML, CSS  
 - ⚙️ Tools: Git, GitHub, VS Code  
 
----
 
 ## 🚀 Projects
 
@@ -34,7 +33,7 @@
 ### ⛓️ Blockchain Task Scheduling
 - Secure cloud scheduling using blockchain concepts  
 
----
+
 
 ## 📫 Connect with Me
 - LinkedIn: https://linkedin.com/in/suvarnathella  
